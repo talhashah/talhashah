@@ -4,7 +4,7 @@
 
 ## [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/talhashah)
 
-### 🚀 About Me
+### About Me
 
 Technology executive with 15+ years of experience driving enterprise-scale digital transformation and cloud architecture for Fortune 500 clients. I specialize in AI solutions including Generative AI, Agentic AI, LLMs, and Retrieval-Augmented Generation (RAG).
 
@@ -12,7 +12,7 @@ Currently exploring innovative ways to leverage AI for business transformation w
 
 ---
 
-### 📈 Current Projects
+### Current Projects
 
 - Evaluating autonomous agent frameworks for enterprise use cases
 - Developing RAG solutions for domain-specific knowledge retrieval
@@ -20,7 +20,7 @@ Currently exploring innovative ways to leverage AI for business transformation w
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 I'm always interested in discussing AI innovation, cloud architecture, and digital transformation strategies. Feel free to reach out via [LinkedIn](https://linkedin.com/in/talhashah).
 
