@@ -27,32 +27,9 @@ Currently exploring innovative ways to leverage AI for business transformation w
 
 ---
 
-### 🧠 AI Expertise
-
-- 🤖 **Generative AI & LLMs**: Custom RAG pipelines, fine-tuning, agentic frameworks
-- 🔧 **AI Development**: LangChain, CrewAI, Vector Databases, Ollama
-- ☁️ **Azure AI**: Azure OpenAI, Azure ML, Azure AI Services, Azure Foundry
-- 📊 **Analytics & Data**: Synapse Analytics, Databricks, Azure Fabric
-
----
-
-### 💻 Tech Stack
-
-```python
-skills = {
-    "programming": ["Python", "C#", "JavaScript", "TypeScript"],
-    "cloud": ["Azure", "Microsoft 365", "Dynamics 365"],
-    "data": ["SQL Server", "PostgreSQL", "Cosmos DB", "Synapse Analytics"],
-    "ai_ml": ["LangChain", "CrewAI", "Vector DBs", "Azure OpenAI"],
-    "low_code": ["Copilot Studio", "Power Automate", "Power Apps"]
-}
-```
-
----
-
 ### 📈 Current Projects
 
-- Building autonomous agent frameworks for enterprise use cases
+- Evaluating autonomous agent frameworks for enterprise use cases
 - Developing RAG solutions for domain-specific knowledge retrieval
 - Exploring responsible AI practices for enterprise adoption
 
