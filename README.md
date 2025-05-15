@@ -6,7 +6,7 @@
 
 ### About Me
 
-Technology executive with 15+ years of experience driving enterprise-scale digital transformation and cloud architecture for Fortune 500 clients. I specialize in AI solutions including Generative AI, Agentic AI, LLMs, and Retrieval-Augmented Generation (RAG).
+Technology executive with 15+ years of experience driving enterprise-scale digital transformation and cloud architecture for Fortune 500 clients. I specialize in AI solutions including Generative AI, Agentic AI, LLMs, and Retrieval-Augmented Generation.
 
 Currently exploring innovative ways to leverage AI for business transformation while maintaining a strong foundation in cloud architecture and solution design.
 
