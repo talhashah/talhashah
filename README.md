@@ -12,37 +12,11 @@ Currently exploring innovative ways to leverage AI for business transformation w
 
 ---
 
-### 💼 Professional Experience
-
-- **Senior Account Technology Strategist** @ Microsoft (2021-2025)
-
-  - Virtual CTO for major insurance companies, driving $50M+ in contract growth
-  - Leading AI initiatives with Azure OpenAI and Azure ML solutions
-  - Managing territory with $37M quota while serving as both Account Executive and Technology Strategist
-
-- **Senior Solutions Architect** @ Perficient (2012-2021)
-  - Led cloud modernization initiatives for healthcare and financial services clients
-  - Transformed monolithic applications into scalable microservices architectures
-  - Guided technical teams in developing cloud-native, intelligent solutions
-
----
-
 ### 📈 Current Projects
 
 - Evaluating autonomous agent frameworks for enterprise use cases
 - Developing RAG solutions for domain-specific knowledge retrieval
 - Exploring responsible AI practices for enterprise adoption
-
----
-
-### 🎓 Education & Certifications
-
-- MS in Business Information Technology, DePaul University
-- BS in Computer Science & Mathematics, Northeastern Illinois University
-- Microsoft Certified: Azure Solutions Architect Expert
-- Microsoft Certified: Azure AI Fundamentals
-- Microsoft Certified: Azure Data Fundamentals
-- Stanford University: Machine Learning Specialization
 
 ---
 
