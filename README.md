@@ -1,5 +1,4 @@
-# 👋 Hello, I'm Talha Shah
-
+# Hello, I'm Talha Shah
 ## AI & Cloud Architect | Technology Strategist | Digital Transformation Leader
 
 ## [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/talhashah)
