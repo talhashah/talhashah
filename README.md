@@ -1,8 +1,6 @@
 # Hello, I'm Talha Shah
 ## AI & Cloud Architect | Technology Strategist | Digital Transformation Leader
 
-## [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/talhashah)
-
 ### About Me
 
 Technology executive with 15+ years of experience driving enterprise-scale digital transformation and cloud architecture for Fortune 500 clients. I specialize in AI solutions including Generative AI, Agentic AI, LLMs, and Retrieval-Augmented Generation.
